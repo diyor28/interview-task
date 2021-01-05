@@ -10,7 +10,7 @@ Write a small single page application to have products to chose from, a cart and
 You can choose to hard code products in you code or give the ability to add them
 
 Push you code to github and send me the link at 
-  - Telegram @diyor28
+  - Telegram https://t.me/diyor28
   - Mail diyor28july@gmail.com
 
 After the task has been reviewed, you will be asked to go through a 30 minute interview/introduction
