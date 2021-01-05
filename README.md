@@ -5,11 +5,11 @@ Totally you preference
 Don't use any libraries othen than Vue/VueX (you won't need them)
 
 ## End result
-Write a small single page application to have products to chose from, a cart and a summary (total price) of selected products
+Write a small single page application to have products to chose from, a cart and a summary (total price) of selected products. Use of components and props is highly encouraged and appreciated.
 
 You can choose to hard code products in you code or give the ability to add them
 
-Push you code to github and send me the link at 
+Push you code to github and send me the link at any of:
   - Telegram https://t.me/diyor28
   - Mail diyor28july@gmail.com
 
